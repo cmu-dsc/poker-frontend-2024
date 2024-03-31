@@ -1,0 +1,23 @@
+.win-rate-cell {
+  font-weight: bold;
+}
+
+.win-rate-cell.diamond {
+  color: #007FFF;
+}
+
+.win-rate-cell.platinum {
+  color: #7F7F7F;
+}
+
+.win-rate-cell.gold {
+  color: #FFD700;
+}
+
+.win-rate-cell.silver {
+  color: #A0A0A0;
+}
+
+.win-rate-cell.bronze {
+  color: #CD7F32;
+}
